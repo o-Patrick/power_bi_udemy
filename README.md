@@ -11,8 +11,8 @@ Para visualizar o relatório, existem três opções:
 2. Clicar no **link** na seção **"About"** à direita (computador) ou acima (celular)
 
 3. Download ZIP
-  1. Clicar no botão verde em que está escrito "Code", depois em "Download ZIP"
-  2. Fazer a extração do arquivo .zip
-  3. Abrir "Relatório Funcionários.pbix"
-  4. Ajustar a fonte dos dados no PBI, estando todos os arquivos na pasta "Bases" com o mesmo nome da base no relatório
-  5. Tudo pronto! Aproveite :smile:
+    1. Clicar no botão verde em que está escrito "Code", depois em "Download ZIP"
+    2. Fazer a extração do arquivo .zip
+    3. Abrir "Relatório Funcionários.pbix"
+    4. Ajustar a fonte dos dados no PBI, estando todos os arquivos na pasta "Bases" com o mesmo nome da base no relatório
+    5. Tudo pronto! Aproveite :smile:
