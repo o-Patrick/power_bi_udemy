@@ -6,7 +6,7 @@ Este é o repositório com o relatório que montei durante o curso Power BI Comp
 
 Para visualizar o relatório, existem três opções:
 
-1. [Clicar aqui!](https://app.powerbi.com/view?r=eyJrIjoiYzZhYzQ1MjYtMjM0OC00MDBkLTk1N2MtZmM2MGQwYTVjYThkIiwidCI6ImNmYjFlNDZhLTBhMDEtNGY0ZS05YmM0LTc1NWZlZTE0NGU3OSJ9)
+1. <a href="https://app.powerbi.com/view?r=eyJrIjoiYzZhYzQ1MjYtMjM0OC00MDBkLTk1N2MtZmM2MGQwYTVjYThkIiwidCI6ImNmYjFlNDZhLTBhMDEtNGY0ZS05YmM0LTc1NWZlZTE0NGU3OSJ9" target="blank_">Clicar aqui!</a>
 
 2. Clicar no **link** na seção **"About"** à direita (computador) ou acima (celular)
 
